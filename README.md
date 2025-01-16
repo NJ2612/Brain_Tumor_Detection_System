@@ -1,8 +1,8 @@
+
 # README
 
-## Dataset Installation 
-The dataset used in this project is the BrATS2021 dataset
-This dataset can be downloaded using the lines of code below:
+## Dataset Installation
+The dataset used in this project is the BrATS2021 dataset. This dataset can be downloaded using the following code:
 
 ```python
 import kagglehub
@@ -23,6 +23,12 @@ This project allows you to train a machine learning model using the `model.py` s
    ```
 
 3. **Dependencies**: The required Python libraries are listed in `requirements.txt`.
+
+   Ensure you have the `requirements.txt` file downloaded from the repository. If not, you can fetch it manually using:
+
+   ```bash
+   curl -O <repository_url>/requirements.txt
+   ```
 
 ## Setup Instructions
 
